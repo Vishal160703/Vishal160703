@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal
 
-<!--
-**Vishal160703/Vishal160703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Technical Writer & API Documentation Enthusiast  
+💡 Passionate about clean docs, helpful examples, and developer-first communication.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- ✍️ API Documentation (REST, JSON)
+- 🧪 Postman / Swagger / OpenAPI
+- 🛠️ Markdown, Git, GitHub
+- 🖥️ Technical Writing for SaaS & Dev Tools
+
+---
+
+### 📚 Projects
+- 📘 [API Documentation Portfolio](https://github.com/Vishal160703/api-documentation-portfolio)
+
+---
+
+### 🎯 Goals
+- Learn Swagger/OpenAPI professionally
+- Build a technical writing portfolio site
+- Explore SaaS and DevOps documentation
+
+---
+
+📫 **Reach Me:**  
+`your.email@example.com` (Replace with your email or LinkedIn)
